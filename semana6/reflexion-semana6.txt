@@ -1,0 +1,10 @@
+Es importante que las plataformas reciban información estructurada.
+JSON permite organizar los datos de manera clara.
+Express facilita el manejo de datos con req.body.
+Esto ayuda a automatizar procesos.
+Reduce errores en la comunicación.
+Permite clasificar incidencias por tipo.
+Mejora la atención a los ciudadanos.
+Facilita el almacenamiento de información.
+Ayuda a tomar mejores decisiones.
+Mejora la comunicación digital.

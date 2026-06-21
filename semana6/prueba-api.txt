@@ -1,0 +1,9 @@
+Se envió una petición POST a /registro con JSON.
+
+El servidor respondió correctamente con:
+
+{
+  "estado": "Datos recibidos",
+  "nombre": "Maria",
+  "mensaje": "Hola comunidad"
+}
