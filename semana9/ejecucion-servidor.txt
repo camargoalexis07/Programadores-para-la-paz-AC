@@ -1,0 +1,6 @@
+Ejecución del servidor:
+
+1. Instalar dependencias con npm install.
+2. Ejecutar el servidor con node server.js.
+3. Abrir el navegador en http://localhost:3000.
+4. Verificar el endpoint http://localhost:3000/estado.

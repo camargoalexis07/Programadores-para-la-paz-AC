@@ -1,0 +1,7 @@
+Componentes del servidor:
+
+- express: Framework para crear el servidor.
+- app: Instancia de Express.
+- app.get: Rutas para manejar solicitudes GET.
+- res.send / res.json: Respuestas enviadas al cliente.
+- app.listen: Inicia el servidor en un puerto.
