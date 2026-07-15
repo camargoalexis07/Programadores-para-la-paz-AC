@@ -1,6 +1,13 @@
-Ejecución del servidor:
+Al ejecutar el comando node server.js se inicia el servidor desarrollado con Node.js y Express.
 
-1. Instalar dependencias con npm install.
-2. Ejecutar el servidor con node server.js.
-3. Abrir el navegador en http://localhost:3000.
-4. Verificar el endpoint http://localhost:3000/estado.
+En la terminal aparece el mensaje:
+"Servidor ejecutándose en puerto 3000".
+
+Cuando se visita la ruta /estado en el navegador, el servidor responde con información en formato JSON.
+
+Respuesta obtenida:
+
+{
+  "estado": "Servidor funcionando",
+  "servicio": "API comunitaria"
+}
