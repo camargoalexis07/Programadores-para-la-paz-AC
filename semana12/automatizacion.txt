@@ -1,0 +1,16 @@
+AUTOMATIZACIÓN
+
+Evento que activa la automatización:
+Se registra una nueva causa en la plataforma.
+
+Mensaje enviado:
+"Nueva causa comunitaria registrada. Revise la plataforma para conocer los detalles."
+
+Información que no debe enviarse:
+- Cédulas.
+- Teléfonos.
+- Direcciones.
+- Correos electrónicos.
+- Contraseñas.
+- Comentarios privados.
+- Cualquier dato personal o sensible de los participantes.
